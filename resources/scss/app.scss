@@ -1,3 +1,40 @@
 @import "~bootstrap/scss/bootstrap";
 
+.text-center {
+    display: flex;
+    justify-content: center;
 
+    .container {
+        margin: 50px;
+        border: 1px solid black;
+    }
+}
+
+.left-menu {
+    display: flex;
+    flex-direction: column;
+    background-color: #b4acb0;
+    color: white;
+    width: 250px;
+
+
+    .ms_btn {
+        font-size: 25px;
+        margin: 5px;
+        display: flex;
+
+        a {
+            text-decoration: none;
+            color: white;
+            padding: 20px 10px;
+
+            &:hover {
+                color: #46e3ff;
+            }
+
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+}
