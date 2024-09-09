@@ -1,0 +1,10 @@
+[
+    {
+        "firstname": "Matteo",
+        "lastname": "Fantacuzzi",
+        "pioneer": false,
+        "english": true,
+        "age_group": 1,
+        "category_slot": 1
+    }
+]
