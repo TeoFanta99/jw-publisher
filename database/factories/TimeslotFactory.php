@@ -20,6 +20,7 @@ class TimeslotFactory extends Factory
             'day' => fake() -> dayOfWeek(),
             'timeslot' => fake() -> word(),
             'activity' => fake() -> word(),
+            'place' => fake() -> word(),
         ];
     }
 }

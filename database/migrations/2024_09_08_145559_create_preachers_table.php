@@ -18,7 +18,9 @@ return new class extends Migration
             $table->string('firstname');
             $table->string('lastname');
             $table->boolean('pioneer');
-            $table->boolean('english');
+            $table->integer('english');
+            $table->boolean('publisher');
+            $table->boolean('case_nuove');
             $table->timestamps();
         });
     }

@@ -1,207 +1,248 @@
 [
     {
         "day": "Martedì",
-        "timeslot": "12:00 - 14:00",
-        "activity": "Espositore"
+        "timeslot": "08:00 - 10:00",
+        "activity": "Espositore",
+        "place": "Sempione Fontana"
     },
     {
         "day": "Mercoledì",
         "timeslot": "16:00 - 18:00",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Sempione Fontana"
     },
     {
         "day": "Giovedì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Somma Mercato"
     },
     {
         "day": "Giovedì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Somma Mercato"
     },
     {
         "day": "Venerdì",
-        "timeslot": "08:00 - 10:00",
-        "activity": "Espositore"
+        "timeslot": "12:00 - 14:00",
+        "activity": "Espositore",
+        "place": "Sempione Fontana"
     },
     {
         "day": "Sabato",
         "timeslot": "10:00 - 12:00",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Panperduto"
     },
     {
         "day": "Sabato",
         "timeslot": "16:15 - 18:15",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Panperduto"
     },
     {
         "day": "Domenica",
         "timeslot": "16:00 - 18:00",
-        "activity": "Espositore"
+        "activity": "Espositore",
+        "place": "Panperduto"
     },
     {
         "day": "Lunedì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Lunedì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Lunedì",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Lunedì",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Lunedì",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Martedì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Martedì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Martedì",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Martedì",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Martedì",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Mercoledì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Mercoledì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Mercoledì",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Mercoledì",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Mercoledì",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Giovedì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Giovedì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Giovedì",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Giovedì",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Giovedì",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Venerdì",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Venerdì",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Venerdì",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Venerdì",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Venerdì",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Sabato",
         "timeslot": "09:00 - 10:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Sabato",
         "timeslot": "10:30 - 12:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Sabato",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Sabato",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Sabato",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Domenica",
         "timeslot": "15:00 - 16:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Domenica",
         "timeslot": "16:30 - 18:00",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     },
     {
         "day": "Domenica",
         "timeslot": "18:00 - 19:30",
-        "activity": "Case Nuove"
+        "activity": "Case Nuove",
+        "place": "Case Nuove"
     }
 ]

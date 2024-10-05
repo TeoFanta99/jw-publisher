@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::create('preacher_availability', function (Blueprint $table) {
             $table->id();
+            $table->boolean('yes_or_no');
             $table->timestamps();
         });
     }

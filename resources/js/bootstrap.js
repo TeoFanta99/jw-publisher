@@ -12,5 +12,5 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 import "~res/scss/app.scss";
 
 // bootstrap (js only, css is imported in app.scss)
-import * as bootstrap from 'bootstrap'
+// import * as bootstrap from 'bootstrap'
 

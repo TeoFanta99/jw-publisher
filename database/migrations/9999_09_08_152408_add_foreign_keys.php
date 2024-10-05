@@ -15,12 +15,12 @@ return new class extends Migration
     {
         Schema::table('preachers', function (Blueprint $table) {
             $table->foreignId('age_group_id')->constrained();
-            $table->foreignId('category_slot_id')->constrained();
+            $table->foreignId('category_slot_id')->nullable()->constrained();
         });
 
         Schema::table('preacher_availability', function (Blueprint $table) {
-            $table->foreignId('timeslot_id')->constrained();
-            $table->foreignId('preacher_id')->constrained();
+            $table->foreignId('timeslot_id')->constrained('timeslots');
+            $table->foreignId('preacher_id')->constrained('preachers');
         });
     }
 

@@ -18,5 +18,8 @@ class DatabaseSeeder extends Seeder
         $this -> call ([CategorySlotTableSeeder::class]);
         $this -> call ([PreacherTableSeeder::class]);
         $this -> call ([TimeslotTableSeeder::class]);
+        $this -> call ([PreacherAvailabilitySeeder::class]);
+
+        
     }
 }

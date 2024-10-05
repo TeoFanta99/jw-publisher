@@ -21,6 +21,8 @@ class PreacherFactory extends Factory
             'lastname' => fake() -> lastname(),
             'pioneer' => fake() -> boolean(),
             'english' => fake() -> numberBetween(1, 3);
+            'publisher' => fake() -> boolean(),
+            'case_nuove' => fake() -> boolean()
         ];
     }
 }

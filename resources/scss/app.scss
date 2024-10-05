@@ -1,4 +1,6 @@
 @import "~bootstrap/scss/bootstrap";
+@import "@fortawesome/fontawesome-free/css/all.css";
+
 
 .text-center {
     display: flex;
@@ -37,4 +39,121 @@
             }
         }
     }
+}
+
+
+/* Pagina Step 1 */
+#step1 table tr {
+    border: 1px solid black;
+}
+
+#step1 table td {
+    width: 20%;
+}
+
+
+
+/* Pagina "Proclamatori" */
+
+#preacher_table thead tr {
+    height: 70px;
+    background-color: rgb(144, 144, 248);
+    color: white;
+    font-weight: bold;
+}
+
+#preacher_table tr {
+    border: 1px solid black;
+}
+
+#preacher_table tbody td {
+    height: 50px;
+
+}
+
+#preacher_table .preacher_row:hover {
+    background-color: rgb(197, 197, 255);
+}
+
+#preacher_table button {
+    border: 2px solid rgb(144, 144, 248);
+    padding: 3px 10px;
+    background: none;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+/* Pagina "Proclamatore" */
+
+.preacher_programs_container {
+
+    .preacher_btn_container {
+        display: flex;
+        width: 100%;
+
+        .preacher_btn {
+            width: 50%;
+            border: 1px solid black;
+            background-color: #46e3ff;
+            color: black;
+            text-decoration: none;
+            padding: 20px 0;
+
+            &:hover {
+                background-color: #95edfc;
+            }
+
+            &:focus {
+                background-color: rgb(52, 49, 251);
+                color: white;
+            }
+        }
+
+    }
+
+    #preacher_publisher_program,
+    #preacher_caseNuove_program {
+        padding: 30px 0;
+        margin: 0 10px;
+        display: none;
+        flex-direction: column;
+        align-items: flex-end;
+
+        table {
+            width: 100%;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+    }
+
+    #preacher_publisher_program #day {
+        width: 25%;
+    }
+
+    #preacher_publisher_program #time {
+        width: 30%;
+    }
+
+    #preacher_publisher_program #place {
+        width: 25%;
+    }
+
+    #preacher_publisher_program #specific_availability {
+        width: 20%;
+    }
+
 }

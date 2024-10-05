@@ -1,5 +1,14 @@
 [
     {
-        "name": "Gruppo di categoria n. 1"
+        "name": "Fascia 1"
+    },
+    {
+        "name": "Fascia 2"
+    },
+    {
+        "name": "Fascia 3"
+    },
+    {
+        "name": "Fascia 4"
     }
 ]

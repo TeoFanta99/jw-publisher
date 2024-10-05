@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('day');
             $table->string('timeslot');
+            $table->string('place')->nullable();
             $table->string('activity');
             $table->timestamps();
         });

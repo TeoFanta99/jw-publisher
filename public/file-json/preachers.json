@@ -3,8 +3,550 @@
         "firstname": "Matteo",
         "lastname": "Fantacuzzi",
         "pioneer": false,
-        "english": true,
+        "english": 3,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Paolo",
+        "lastname": "Mazzarella",
+        "pioneer": true,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
         "age_group": 1,
         "category_slot": 1
+    },
+    {
+        "firstname": "Antonio",
+        "lastname": "Pivati",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Stefano",
+        "lastname": "Ruocco",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Adriano",
+        "lastname": "Grazioli",
+        "pioneer": true,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Aldo",
+        "lastname": "Liuzzi",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Andrea",
+        "lastname": "Sciarrabba",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Anita",
+        "lastname": "Galdabino",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Anna",
+        "lastname": "Quero",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Antonio",
+        "lastname": "Giglio",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Barbara",
+        "lastname": "Pece",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Daniela",
+        "lastname": "Sinatra/Pirro",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Daniela",
+        "lastname": "Sinatra",
+        "pioneer": true,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Domenico",
+        "lastname": "Guida",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Elisabetta",
+        "lastname": "Balsamo",
+        "pioneer": false,
+        "english": 3,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Fabiana",
+        "lastname": "Calabrese",
+        "pioneer": true,
+        "english": 3,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Fabrizio",
+        "lastname": "Sciarrabba",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Federico",
+        "lastname": "Pinna",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Fernando",
+        "lastname": "dall'Igna",
+        "pioneer": true,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Francesca",
+        "lastname": "Messina",
+        "pioneer": true,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Franco",
+        "lastname": "Quero",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Giada",
+        "lastname": "dall'Igna",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Gioia",
+        "lastname": "Montagnana",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Gionatan",
+        "lastname": "Calabrese",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Giulia",
+        "lastname": "Sciarrabba",
+        "pioneer": true,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Giuseppe",
+        "lastname": "Sinatra",
+        "pioneer": true,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Jessica",
+        "lastname": "Pivati",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Katia",
+        "lastname": "di Gennaro",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Laura",
+        "lastname": "dall'Igna",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Lisa",
+        "lastname": "Bevilacqua",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Loredana",
+        "lastname": "Guida",
+        "pioneer": true,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Lorella",
+        "lastname": "Liuzzi",
+        "pioneer": false,
+        "english": 3,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Luca",
+        "lastname": "Carlucci",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Luisa",
+        "lastname": "Impellizzeri",
+        "pioneer": true,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Marco",
+        "lastname": "dall'Igna",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Martina",
+        "lastname": "Carlucci",
+        "pioneer": false,
+        "english": 3,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Micaela",
+        "lastname": "Fonsato",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Nunzia",
+        "lastname": "Ruocco",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Paolo",
+        "lastname": "Balsamo",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Paolo",
+        "lastname": "Grogno",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Rossella",
+        "lastname": "Montagnana",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Sabrina",
+        "lastname": "Autieri",
+        "pioneer": true,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Samuela",
+        "lastname": "Mazzarella",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Samuele",
+        "lastname": "Fonsato",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Sandro",
+        "lastname": "Sanzone",
+        "pioneer": false,
+        "english": 2,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Silvana",
+        "lastname": "Princisgh",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 2
+    },
+    {
+        "firstname": "Tabita",
+        "lastname": "Sciarrabba",
+        "pioneer": false,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": 3
+    },
+    {
+        "firstname": "Giuseppe",
+        "lastname": "Rizzo",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Marta",
+        "lastname": "Grogno",
+        "pioneer": true,
+        "english": 1,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 1
+    },
+    {
+        "firstname": "Rina",
+        "lastname": "Rizzo",
+        "pioneer": false,
+        "english": 0,
+        "publisher": true,
+        "case_nuove": false,
+        "age_group": 1,
+        "category_slot": 4
+    },
+    {
+        "firstname": "Valeria",
+        "lastname": "Mutta",
+        "pioneer": false,
+        "english": 1,
+        "publisher": false,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": null
+    },
+    {
+        "firstname": "Rachele",
+        "lastname": "Galdabino",
+        "pioneer": false,
+        "english": 1,
+        "publisher": false,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": null
+    },
+    {
+        "firstname": "Marika",
+        "lastname": "d'Asaro",
+        "pioneer": false,
+        "english": 1,
+        "publisher": false,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": null
+    },
+    {
+        "firstname": "Miriam",
+        "lastname": "Crippa",
+        "pioneer": false,
+        "english": 1,
+        "publisher": false,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": null
+    },
+    {
+        "firstname": "Gianluca",
+        "lastname": "Sinatra",
+        "pioneer": false,
+        "english": 1,
+        "publisher": false,
+        "case_nuove": true,
+        "age_group": 1,
+        "category_slot": null
     }
 ]

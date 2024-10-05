@@ -9,6 +9,8 @@ class PreacherAvailability extends Model
 {
     use HasFactory;
 
+    protected $table = 'preacher_availability';
+
     public function timeslot()
     {
         return $this -> belongsTo(Timeslot :: class);

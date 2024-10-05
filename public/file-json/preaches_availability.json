@@ -1,0 +1,47 @@
+[
+    {
+        "preacher_id": 1,
+        "timeslot_id": 1,
+        "yes_or_no": false
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 2,
+        "yes_or_no": false
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 3,
+        "yes_or_no": false
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 4,
+        "yes_or_no": false
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 5,
+        "yes_or_no": false
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 6,
+        "yes_or_no": true
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 7,
+        "yes_or_no": true
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 8,
+        "yes_or_no": true
+    },
+    {
+        "preacher_id": 1,
+        "timeslot_id": 9,
+        "yes_or_no": true
+    }
+]

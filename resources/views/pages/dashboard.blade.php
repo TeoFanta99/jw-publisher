@@ -1,10 +1,13 @@
 @extends('layouts.main-layout')
-@section('head')
-<title>Step 2</title>
-@endsection
 @section('content')
+@include('components.sidebar')
 <div class="container-fluid">
+    <br>
     <h1>Supporto per programmi Espositori e Case Nuove</h1>
-    <p>STEP 2</p>
+    <br><br>
+    <a href="{{route('create.step1')}}">
+        <button>Vai allo Step 1 - Genera mese</button>
+    </a>
 </div>
+
 @endsection

@@ -25,6 +25,8 @@ class PreacherTableSeeder extends Seeder
             $newPreacher->lastname = $preacher['lastname'];
             $newPreacher->pioneer = $preacher['pioneer'];
             $newPreacher->english = $preacher['english'];
+            $newPreacher->publisher = $preacher['publisher'];
+            $newPreacher->case_nuove = $preacher['case_nuove'];
             $newPreacher->age_group_id = $preacher['age_group'];
             $newPreacher->category_slot_id = $preacher['category_slot'];
 
